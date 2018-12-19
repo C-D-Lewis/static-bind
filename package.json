@@ -1,0 +1,12 @@
+{
+  "name": "static-bind",
+  "version": "1.0.0",
+  "description": "Extremely simple method to bind a static HTML page's form elements to JS functionality.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c-d-lewis/static-bind"
+  },
+  "author": "Chris Lewis",
+  "license": "MIT"
+}
